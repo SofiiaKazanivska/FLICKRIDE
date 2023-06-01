@@ -26,3 +26,11 @@ This project serves as an educational platform that showcases the functionality 
 > - Java Servlets version 4.0.1
 > - JDBC version 4.2
 > - JSTL version 1.2
+
+### 🔍 GETTING STARTED 🔍
+> - Clone the project repository.
+> - Execute the SQL script located in src/main/resources/init_db.sql to initialize the database.
+> - Update the values of URL, USERNAME, PASSWORD, and JDBC_DRIVER in the src/main/java/util/ConnectionUtil file with your own database configuration.
+> - Build the project using Maven: mvn clean install.
+> - Deploy the generated WAR file to your servlet container. (This project uses Tomcat.)
+> - After deploying the project, open the following link in your web browser to access the taxi service.
