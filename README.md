@@ -6,6 +6,14 @@
 
 ### 🌞 PROJECT DESCRIPTION 🌞
 
+<sub>   
+	
+	Cinema is a matter of what's in the frame and what's out.
+	Martin Scorsese
+	
+ </sub>
+ 
+
 <sub>	
 	This project serves as an educational platform that showcases the functionality of a taxi service. Users have the ability to perform various actions such as adding new drivers, registering new cars within the service, including information about car manufacturers, assigning drivers to specific vehicles, and accessing comprehensive details about drivers, cars, and manufacturers. The project incorporates user-friendly navigation between different pages to enhance the overall user experience.	
 	
