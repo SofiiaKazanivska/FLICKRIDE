@@ -1,7 +1,7 @@
 ﻿# TAXI-SERVICE
  
  <p align="center">
-  <img src="https://github.com/SofiiaKazanivska/TAXI-SERVICE/blob/main/taxi_service.jpg" alt="Taxi Service" width="200">
+  <img src="https://github.com/SofiiaKazanivska/TAXI-SERVICE/blob/main/taxi_service.jpg" alt="Taxi Service" width="400">
 </p>
 
 
