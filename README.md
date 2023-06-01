@@ -32,8 +32,8 @@ This project serves as an educational platform that showcases the functionality 
 __Controller:__
 
   > - *Authentication controllers:*
-  >  - LoginController - to login
-  > - LogoutController - to logout
+  >   - LoginController - to login
+  >   - LogoutController - to logout
   > - *Car controllers:*
   >   - AddCarController - to create new car 
   >   - AddDriverToCarController - to add driver to the car
