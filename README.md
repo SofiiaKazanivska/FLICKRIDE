@@ -90,9 +90,9 @@ __Webapp:__
 > - **JDK** `v.17.0.2` - Java Development Kit
 > - **MySql** `v.8.0.22` - relational database management system
 > - **Tomcat** `v.9.0.73` - server for deploying Java web applications
-> - **Java Servlets** v.4.0.1 
-> - **JDBC** v.4.2 - Java Database Connectivity
-> - **JSTL** v.1.2 - JavaServer Pages Standard Tag Library
+> - **Java Servlets** `v.4.0.1` - a technology for developing web applications in Java
+> - **JDBC** `v.4.2` - Java Database Connectivity
+> - **JSTL** `v.1.2` - JavaServer Pages Standard Tag Library
 
 
  <a href="https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/3.10.1">
