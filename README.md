@@ -95,7 +95,9 @@ __Webapp:__
 > - **JSTL** v.1.2 - JavaServer Pages Standard Tag Library
 
 
-  [![Maven](https://maven.apache.org/images/maven-logo-black-on-white.png)](https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/3.10.1)
+ <a href="https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/3.10.1">
+    <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" width="100" height="50">
+</a>
 
 
   [![JDK](https://img.shields.io/badge/JDK-v.17.0.2-orange)](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
