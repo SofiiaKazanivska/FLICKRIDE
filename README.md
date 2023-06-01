@@ -30,55 +30,57 @@ This project serves as an educational platform that showcases the functionality 
 ### 🚀 STRUCTURE 🚀
 
 __Controller:__
-   - *Authentication controllers:*
-      - LoginController - to login
-      - LogoutController - to logout
-   - *Car controllers:*
-      - AddCarController - to create new car 
-      - AddDriverToCarController - to add driver to the car
-      - DeleteCarController - to delete car
-      - GetAllCarsController - to display all cars
-   - Driver controllers:
-      - AddDriverController - to register driver
-      - DeleteDriverController - to delete driver
-      - GetAllDriversController - to display all drivers
-      - GetMyCurrentCarsController - to display cars on current account
-   - Manufacturer controllers:
-      - AddManufacturerController - to add new manufacturer
-      - DeleteManufacturerController - to delete manufacturer
-      - GetAllManufacturersController - to display all manufacturers
-   - IndexController - homepage
+
+  > - *Authentication controllers:*
+  >  - LoginController - to login
+  > - LogoutController - to logout
+  > - *Car controllers:*
+  >   - AddCarController - to create new car 
+  >   - AddDriverToCarController - to add driver to the car
+  >    - DeleteCarController - to delete car
+  >    - GetAllCarsController - to display all cars
+  > - *Driver controllers:*
+  >    - AddDriverController - to register driver
+  >    - DeleteDriverController - to delete driver
+  >    - GetAllDriversController - to display all drivers
+  >    - GetMyCurrentCarsController - to display cars on current account
+  > - *Manufacturer controllers:*
+  >    - AddManufacturerController - to add new manufacturer
+  >    - DeleteManufacturerController - to delete manufacturer
+  >    - GetAllManufacturersController - to display all manufacturers
+  > - *IndexController:*
+  >  - homepage
     
 __Dao:__
-   - CarDaoImpl - processes car model from DB
-   - DriverDaoImpl - processes driver model from DB
-   - ManufacturerDaoImpl - processes manufacturer model from DB
+  > - CarDaoImpl - processes car model from DB
+  > - DriverDaoImpl - processes driver model from DB
+  > - ManufacturerDaoImpl - processes manufacturer model from DB
 
 __Exception:__
-   - AuthenticationException 
-   - DataProcessingException
+ >  - AuthenticationException 
+ >  - DataProcessingException
 
 __Model:__
-   - Car - car model class
-   - Driver - driver model class
-   - Manufacturer - manufacturer model class
+  > - Car - car model class
+  > - Driver - driver model class
+  > - Manufacturer - manufacturer model class
    
 __Service:__
-   - AuthenticationServiceImpl - processes authentication logic
-   - CarServiceImpl - processes car's CRUD logic
-   - DriverServiceImpl - processes driver's CRUD logic
-   - ManufacturerServiceImpl - processes manufacturer's CRUD logic
+  > - AuthenticationServiceImpl - processes authentication logic
+  > - CarServiceImpl - processes car's CRUD logic
+  > - DriverServiceImpl - processes driver's CRUD logic
+  > - ManufacturerServiceImpl - processes manufacturer's CRUD logic
 
 __Util:__
-   - ConnectionUtil - provides a connection to the database
+  > - ConnectionUtil - provides a connection to the database
 
 __Resources:__
-   - init_db.sql - sql script to initialize the database
+  > - init_db.sql - sql script to initialize the database
 
 __Webapp:__
-   - jsp files
-   - css file 
-   - web.xml - configuration file
+  > - jsp files
+  > - css file 
+  > - web.xml - configuration file
 
 ### 🔍 GETTING STARTED 🔍
 > - Clone the project repository.
