@@ -34,5 +34,4 @@ This project serves as an educational platform that showcases the functionality 
 > - Build the project using Maven: `mvn clean install`.
 > - Deploy the generated WAR file to your servlet container. (This project uses Tomcat.)
 > - After deploying the project, open the following 
-[http://localhost:8080](http://localhost:8080) <br>
-in your web browser to access the taxi service.
+`[http://localhost:8080](http://localhost:8080)` <br> in your web browser to access the taxi service.
