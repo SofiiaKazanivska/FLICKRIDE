@@ -18,14 +18,6 @@ This project serves as an educational platform that showcases the functionality 
 > - Add new car
 > - Add new manufacturer
 
-### 💡 TECHNOLOGIES 💡
-> - Maven version 3.8.0
-> - Java version 17.0.2
-> - Tomcat version 9.0.73
-> - MySQL version 8.0.22
-> - Java Servlets version 4.0.1
-> - JDBC version 4.2
-> - JSTL version 1.2
 
 ### 🚀 STRUCTURE 🚀
 
@@ -90,6 +82,37 @@ __Webapp:__
 > - Deploy the generated WAR file to your servlet container. (This project uses Tomcat.)
 > - After deploying the project, open the following 
 [http://localhost:8080](http://localhost:8080) <br> in your web browser to access the taxi service.
+
+
+
+### 💡 TECHNOLOGIES 💡
+> - **Maven** `v.3.10.1` - build tool and dependency management
+> - **JDK** `v.17.0.2` - Java Development Kit
+> - **MySql** `v.8.0.22` - relational database management system
+> - **Tomcat** `v.9.0.73` - server for deploying Java web applications
+> - **Java Servlets** v.4.0.1 
+> - **JDBC** v.4.2 - Java Database Connectivity
+> - **JSTL** v.1.2 - JavaServer Pages Standard Tag Library
+
+
+  [![Maven](https://maven.apache.org/images/maven-logo-black-on-white.png)](https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/3.10.1)
+
+
+  [![JDK](https://img.shields.io/badge/JDK-v.17.0.2-orange)](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+
+
+   [![MySQL](https://img.shields.io/badge/MySQL-v.8.0.22-blue)](https://dev.mysql.com/downloads/mysql/8.0.22.html)
+
+
+   [![Tomcat](https://img.shields.io/badge/Tomcat-v.9.0.73-yellowgreen)](https://tomcat.apache.org/download-90.cgi)
+
+
+   [![Java Servlets API](https://img.shields.io/badge/Java%20Servlets%20API-v.4.0.1-blueviolet)](https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api/4.0.1)
+
+   [![JDBC](https://img.shields.io/badge/JDBC-v.4.2-lightgrey)](https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/3.10.1)
+
+   [![JSTL](https://img.shields.io/badge/JSTL-v.1.2-yellow)](https://mvnrepository.com/artifact/javax.servlet/jstl/1.2)
+
 
 ### 💬 Contact 💬
 	
