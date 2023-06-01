@@ -41,7 +41,7 @@ __Controller:__
   >    - DeleteManufacturerController - to delete manufacturer
   >    - GetAllManufacturersController - to display all manufacturers
   > - *IndexController:*
-  >    - homepage
+  >    - home page (http://localhost:8080)
     
 __Dao:__
   > - CarDaoImpl - processes car model from DB
