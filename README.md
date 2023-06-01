@@ -96,7 +96,7 @@ __Webapp:__
 
 
  <a href="https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/3.10.1">
-    <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" width="100" height="50">
+    <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" width="50" height="25">
 </a>
 
 
