@@ -90,3 +90,8 @@ __Webapp:__
 > - Deploy the generated WAR file to your servlet container. (This project uses Tomcat.)
 > - After deploying the project, open the following 
 [http://localhost:8080](http://localhost:8080) <br> in your web browser to access the taxi service.
+
+### 💬 Contact 💬
+	
+[Kazanivska Sofiia](https://www.linkedin.com/in/sofiia-kazanivska-40a413232/) <br>
+sofiakazzz@gmail.com
