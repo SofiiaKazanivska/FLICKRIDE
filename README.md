@@ -97,6 +97,8 @@ __Webapp:__
 > - **Java Servlets** `v.4.0.1` - a technology for developing web applications in Java
 > - **JDBC** `v.4.2` - Java Database Connectivity
 > - **JSTL** `v.1.2` - JavaServer Pages Standard Tag Library
+> - **JSP** - `v.2.3` - JavaServer Pages
+> - **HTML** - `v.4.01` - HyperText Markup Language
 
 
  <a href="https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/3.10.1">
@@ -118,6 +120,11 @@ __Webapp:__
    [![JDBC](https://img.shields.io/badge/JDBC-v.4.2-lightgrey)](https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/3.10.1)
 
    [![JSTL](https://img.shields.io/badge/JSTL-v.1.2-yellow)](https://mvnrepository.com/artifact/javax.servlet/jstl/1.2)
+   
+   - [![JSP](https://img.shields.io/badge/JSP-v.2.3-blue)](https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api/2.3)
+   - 
+- [![HTML](https://img.shields.io/badge/HTML-v.4.01-orange)](https://www.w3.org/TR/html4/)
+
 
 
 ### 💬 Contact 💬
