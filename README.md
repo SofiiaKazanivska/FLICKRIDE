@@ -121,9 +121,9 @@ __Webapp:__
 
    [![JSTL](https://img.shields.io/badge/JSTL-v.1.2-yellow)](https://mvnrepository.com/artifact/javax.servlet/jstl/1.2)
    
-   - [![JSP](https://img.shields.io/badge/JSP-v.2.3-blue)](https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api/2.3)
-   - 
-- [![HTML](https://img.shields.io/badge/HTML-v.4.01-orange)](https://www.w3.org/TR/html4/)
+    [![JSP](https://img.shields.io/badge/JSP-v.2.3-blue)](https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api/2.3)
+   
+ [![HTML](https://img.shields.io/badge/HTML-v.4.01-orange)](https://www.w3.org/TR/html4/)
 
 
 
