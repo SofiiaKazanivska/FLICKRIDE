@@ -1,4 +1,4 @@
-<h1 align="center"> TAXI-SERVICE</h1>
+<h1 align="center"> FlickRide</h1>
  
  <p align="center">
   <img src="https://github.com/SofiiaKazanivska/TAXI-SERVICE/blob/main/taxi_service.jpg" alt="Taxi Service" width="400">
